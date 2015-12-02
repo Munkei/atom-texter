@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Theo Willows"
+  },
+  "bugs": "https://github.com/Munkei/atom-texter/issues",
+  "contributors": [],
+  "dependencies": {},
+  "description": "Text manipulation",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/Munkei/atom-texter",
+  "keywords": ["text", "text-manipulation"],
+  "license": "MIT",
+  "main": "./lib/texter.js",
+  "name": "texter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Munkei/atom-texter"
+  },
+  "version": "0.0.0"
+}

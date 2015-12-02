@@ -1,0 +1,12 @@
+{
+  "menu": [{
+    "label": "Edit",
+    "submenu": [{
+      "label": "Text",
+      "submenu": [{
+        "label": "Narrow whitespace",
+        "command": "texter:narrow-whitespace"
+      }]
+    }]
+  }]
+}
