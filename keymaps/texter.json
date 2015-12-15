@@ -1,5 +1,6 @@
 {
   "atom-text-editor": {
-    "alt-space": "texter:narrow-whitespace"
+    "alt-space": "texter:narrow-whitespace",
+    "ctrl-i": "texter:toggle-character-info"
   }
 }
