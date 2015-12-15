@@ -1,0 +1,52 @@
+@import 'ui-variables';
+@dt-width: 12em;
+
+.texter {
+  &-character-info-view {
+    button.close {
+      color      : @text-color-subtle;
+      height     : 2em;
+      line-height: 2em;
+      position   : absolute;
+      right      : 0;
+      text-align : center;
+      text-shadow: none;
+      top        : 0;
+      width      : 2em;
+
+      &:hover {
+        background-color: @background-color-highlight;
+        color           : @text-color-highlight;
+      }
+    }
+
+    dd {
+      margin-left: @dt-width + 1em;
+    }
+
+    dt {
+      clear      : left;
+      color      : @text-color-info;
+      float      : left;
+      font-weight: bolder;
+      text-align : right;
+      white-space: nowrap;
+      width      : @dt-width;
+    }
+
+    figure {
+      background-color: @background-color-info;
+      border-radius   : @component-border-radius;
+      color           : @text-color-highlight;
+      float           : right;
+      font-family     : monospace;
+      font-size       : 8em !important;
+      height          : 2em;
+      padding         : @component-padding;
+      text-align      : center;
+      vertical-align  : middle;
+      white-space     : pre-line;
+      width           : 2em;
+    }
+  }
+}

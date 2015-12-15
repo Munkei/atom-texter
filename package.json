@@ -4,7 +4,10 @@
   },
   "bugs": "https://github.com/Munkei/atom-texter/issues",
   "contributors": [],
-  "dependencies": {},
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.0",
+    "unidata": "^8.0.3"
+  },
   "description": "Text manipulation",
   "engines": {
     "atom": ">0.50.0"
