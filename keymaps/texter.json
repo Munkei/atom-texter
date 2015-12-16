@@ -1,6 +1,9 @@
 {
-  "atom-text-editor": {
-    "alt-space": "texter:narrow-whitespace",
+  "atom-workspace atom-text-editor": {
+    "alt-space": "texter:narrow-whitespace"
+  },
+  "atom-workspace atom-text-editor:not([mini])": {
+    "ctrl-enter": "texter:rotate",
     "ctrl-i": "texter:toggle-character-info"
   }
 }
