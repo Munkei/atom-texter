@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/Munkei/atom-texter",
   "keywords": [
+    "unicode",
     "text",
     "text-manipulation"
   ],

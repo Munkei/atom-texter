@@ -5,7 +5,7 @@
 
 ---
 
-Text manipulation commands.
+Text-related utilities.
 
 ## Narrow Whitespace ##
 

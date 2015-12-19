@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning], and this file to [Keep a CHANGELOG].
 
-## Unreleased ##
+## 0.1.0 - 2015-12-19 ##
 
 ### Added ###
 
