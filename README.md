@@ -1,5 +1,10 @@
 # Texter #
 
+[![Build Status](https://img.shields.io/travis/Munkei/atom-texter.svg?style=flat-square)](https://travis-ci.org/Munkei/atom-texter)
+[![Downloads](https://img.shields.io/apm/dm/texter.svg?style=flat-square)](https://atom.io/packages/texter)
+
+---
+
 Text manipulation commands.
 
 ## Narrow Whitespace ##
