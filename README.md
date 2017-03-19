@@ -5,18 +5,25 @@
 
 ---
 
+> **Looking for maintainers** I, the maintainer and sole developer of Texter, am
+> not using it myself anymore, and have very little time to keep it up-to-date
+> and bug-free. If you would like to take over ownership of this project, or
+> simply contribute, please contact me.
+
+---
+
 Text-related utilities.
 
 ## Narrow Whitespace ##
 
-<kbd>Alt</kbd>+<kbd>Space</kdb>
+<kbd>Alt</kbd>+<kbd>Space</kbd>
 
 Narrows the whitespace around the cursor — or cursors — to a single space. Or
 expands if there is no whitespace.
 
 ## Rotate ##
 
-<kbd>Ctrl</kbd>+<kbd>↵&thinsp;Enter</kdb>
+<kbd>Ctrl</kbd>+<kbd>↵&thinsp;Enter</kbd>
 
 Does one of two things, depending on whether the cursor is at the beginning of a
 line (not counting indentation):
@@ -30,6 +37,10 @@ cycle between two states.
 
 ## Toggle Character Info ##
 
-<kbd>Ctrl</kbd>+<kbd>i</kdb>
+<kbd>Ctrl</kbd>+<kbd>i</kbd>
 
 Shows (or hides) some Unicode information about the character at the cursor.
+
+<!--
+LocalWords:  Texter kbd Ctrl thinsp
+ -->

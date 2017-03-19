@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "main": "./lib/texter.js",
-  "name": "texter",
+  "name": "Texter",
   "repository": {
     "type": "git",
     "url": "https://github.com/Munkei/atom-texter"
